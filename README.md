@@ -1,16 +1,15 @@
-### Hi there 👋
+### HI THERE👋
 
-<!--
-**TufailDev/TufailDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I AM TUFAIL YOOSUF AND I'M A FULL-STACK WEB, SOFTWARE, DESKTOP APP DEVELOPER.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I MASTER,
+1) JAVASCRIPT
+2) NODEJS
+3) MONGODB
+4) FIREBASE
+5) ⚛ REACT
+6) REDUX
+7) ⚛ REACT-NATIVE
+8) FLUTTER
+9) ELECTRON
+AND SO... ON!
