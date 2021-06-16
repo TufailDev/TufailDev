@@ -18,4 +18,4 @@ I MASTER,
 13) ELECTRON
 14) AND SO... ON!
 
-## Check Out My YouTube Channel Click Here[https://youtube.com/channel/UCPuy1aRP7kJ1JoPRulsaZ0w]
+# Check Out My YouTube Channel [Click Here](https://youtube.com/channel/UCPuy1aRP7kJ1JoPRulsaZ0w)
